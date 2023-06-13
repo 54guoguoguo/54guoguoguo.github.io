@@ -32,7 +32,7 @@
 
 <img src="/images/cookbook/scalding/3.jpg" alt="" width="60%" />
 
-4. 用一个饭碗调酱汁，倒入蒜末、耗油、生抽、倒入黄豆酱、白糖、淀粉，然后加半碗冷水搅拌均匀。
+4. 用一个饭碗调酱汁，倒入蒜末、耗油、生抽、黄豆酱、白糖、淀粉，然后加半碗冷水搅拌均匀。
 
 <img src="/images/cookbook/scalding/4.jpg" alt="" width="60%" />
 
