@@ -4,10 +4,18 @@
         <link>https://54guoguoguo.github.io/</link>
         <description>Hugo theme - LoveIt</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>54guoguoguo@gmail.com (guoguoguo)</managingEditor>
-            <webMaster>54guoguoguo@gmail.com (guoguoguo)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 13 Jun 2023 00:00:00 &#43;0000</lastBuildDate>
+            <webMaster>54guoguoguo@gmail.com (guoguoguo)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 28 Jun 2023 00:00:00 &#43;0000</lastBuildDate>
             <atom:link href="https://54guoguoguo.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
-    <title>小果子汤菜谱-生菜</title>
+    <title>抖音直播带货实操指南读书笔记</title>
+    <link>https://54guoguoguo.github.io/douyin-live/</link>
+    <pubDate>Wed, 28 Jun 2023 00:00:00 &#43;0000</pubDate>
+    <author>Guoguo</author>
+    <guid>https://54guoguoguo.github.io/douyin-live/</guid>
+    <description><![CDATA[团队组建 团队架构 直播间事业部 人员 工作内容 运营负责人 负责统筹管理整个直播间的各项工作。 主播 负责日常直播间的人设搭建、直播以及短视频出镜拍摄。 运]]></description>
+</item>
+<item>
+    <title>小果子烫菜谱-生菜</title>
     <link>https://54guoguoguo.github.io/scalding-vegetables/</link>
     <pubDate>Tue, 13 Jun 2023 00:00:00 &#43;0000</pubDate>
     <author>Guoguo</author>
